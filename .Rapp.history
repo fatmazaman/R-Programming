@@ -1,0 +1,29 @@
+getwd()
+getwd()
+dir()
+dir()
+read.cd("sleep.cvs")
+read.csv("sleep.csv")
+myfunction()
+ls
+ls()
+myfunction <- function(x){#
+	y <- rnorm(100)#
+	mean(y)#
+}
+ls()
+myfunction
+dir()
+source(myfunction.R)
+source("myfunction.R")
+ls()
+second
+second()
+second(2)
+second(2)
+dir()
+dir()
+clear
+clear()
+help
+help
